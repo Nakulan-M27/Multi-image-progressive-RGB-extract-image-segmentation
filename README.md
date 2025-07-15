@@ -69,8 +69,8 @@ Our final model is a **DeepLavV3+ module with a Dilated ResNet backbone** traine
 Our model shows sustainable improvement as we improve the number of training images progressively. The results obtained are below:
 
 | No. of images | Accuracy | F1 Score | mIoU | 
-| ----------- |---------------- | -------------- | ------- | ------- |
-| 100   | 37.9% | 65.6% | 21.5% 
+| --- |------- | ---- | ---- |
+| 100 | 37.9% | 65.6% | 21.5% 
 | 250 | 38.4% |​ 66.4​% | 21.6​%
 | 500 | 38.3% | ​66.2%​ | 21.5​%
 | 750 | 38.1​% | 65.8​% | 21.6​%
