@@ -1,8 +1,8 @@
-<img width="940" height="1368" alt="image" src="https://github.com/user-attachments/assets/b2da6d57-7ac7-41e5-8e58-69addef2538a" />## Optimizing Building Footprint Extraction from Satellite Images via Progressive Multi-Image Deep Learning Approaches
+## Optimizing Building Footprint Extraction from Satellite Images via Progressive Multi-Image Deep Learning Approaches
 
 This repository is the official implementation of **[Optimizing Building Footprint Extraction from Satellite Images via Progressive Multi-Image Deep Learning Approaches]** by Nakulan Murugan and Prakash Singh Badal. 
 
-![model visualization](./imgs/visual.jpg "Title")
+![model visualization](<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/b2da6d57-7ac7-41e5-8e58-69addef2538a" />"Title")
 
 ### Requirements
 
