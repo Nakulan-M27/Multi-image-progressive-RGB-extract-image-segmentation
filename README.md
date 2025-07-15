@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 #### Downloading the Datasets
 1. To download the AICrowd dataset, please go [here](https://www.aicrowd.com/challenges/mapping-challenge-old). You will have to either create an account or sign in to access the training and validation set. Please store the training/validation set inside `<root>/AICrowd/<train | val>` for ease of conversion.
-2. 
+
 #### Converting the Datasets
 
 Please use our provided dataset converters to process the datasets. For all converters, please look at the individual files for an example of how to use them. 
